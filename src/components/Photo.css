@@ -1,0 +1,11 @@
+.button{
+    position: absolute;
+    top: 0;
+}
+.photo{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+
+}
